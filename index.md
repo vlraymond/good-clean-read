@@ -2,53 +2,35 @@
 layout: default
 ---
 
-## A Jekyll template for publishing single-page websites and articles that are incredibly readable and fully responsive
+#<h1> Tools of Analysis
+* [Aylien](http://aylien.com/) - a suite of natural language processing, information retrieval and machine learning tools for extracting meaning and insight from text
+* [AlchemyLanguage](https://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/alchemy-language.html) - a suite of natural language processing APIs for text analysis including entity extraction, sentiment analysis, keyword extraction, concept tagging
+* [CartoDB](https://cartodb.com/) - a location intelligence and visualization engine
+* [Textexture](http://textexture.com/) - a tool that visualizes any text as a network
+* [Overview](https://blog.overviewdocs.com/about/) - a tool for analyzing large sets of documents using a sophisticated search engine, entity detection, and topic-based document clustering 
+* [VOSViewer](http://www.vosviewer.com/) - a tool for constructing and visualizing co-occurrence networks of important terms extracted from a body of text
 
-### Nice, clean, reading!
+#<h1> Content: What was mentioned?
+* [Map of locations mentioned: Location Entities in US Arctic Policy Documents 2009 - 2015](https://shuggielee.cartodb.com/viz/c66b600a-eb91-11e4-afd8-0e8dde98a187/embed_map)
+* [Map of locations mentioned: Location Entities in US Arctic Intelligence 2007 - 2011](https://shuggielee.cartodb.com/viz/8b64bf38-df1b-11e4-895a-0e8dde98a187/public_map)
+* [Document similarity: US Arctic Policy](https://www.overviewdocs.com/documentsets/6608/job-10482)
+* [Document similarity: US Arctic Intelligence](https://www.overviewdocs.com/documentsets/7104/tree-30511447670786)
+* [Document similarity: 17 Top Secret Cables](https://www.overviewdocs.com/documentsets/7104/tree-30511447670788)
+* [Word networks: 17 Top Secret Cables](http://textexture.com/index.php?text_id=54247&embed=1&fullscreen=1)
+* [Word networks: Secret Classified documents] (http://textexture.com/index.php?text_id=54247&embed=1&fullscreen=1)
+* [Word networks: Us Arctic policy documents] (http://textexture.com/index.php?text_id=57497&embed=1&fullscreen=1) 
+* [Word networks: US Arctic intelligence] (http://textexture.com/index.php?text_id=54247)
 
-Good clean read is set up with readability first in mind. Whatever you want to communicate here can be read easily, and without distraction. Of course, it's fully responsive, which means people can read it naturally on any phone, or tablet. Write it in markdown in <code>index.md</code> and get a beautifully published piece.
+#<h1> Comics
+* [Methods comic](https://drive.google.com/file/d/0B7i8vRYAH8JvMTNpdTE5UzRSUW8/view?usp=sharing)
+* [Theory comic](https://drive.google.com/open?id=0B7i8vRYAH8JvV09QQ1pJMXcwSzA)
+* [Text Analysis comic](https://drive.google.com/file/d/0B7i8vRYAH8JvNEp6RUFLN3hlc0k/view?usp=sharing)
+* [Data Origins comic](https://drive.google.com/open?id=0B7i8vRYAH8JvR3RJMXVJRUpHRU0)
+* [Questions comic](https://drive.google.com/open?id=0B7i8vRYAH8JvU2ZOVmFXVC1lWGM)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+#<h1> Getting Meta
+* [thesis as word network](http://textexture.com/index.php?text_id=67439&embed=1&fullscreen=1)
+thesis word co-occurances
+thesis sentiment
+mapping thesis geographic entities
 
-> "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-### With footnotes too!
-
-Back up your stuff with solid, clean citations. Footnotes can be written in markdown and appear like this.[^1] Use as many as you like.[^2]
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-### Add social sharing buttons
-
-Simply add the following line anywhere in you markdown:
-
-<pre><code>{% raw  %}
-{% include sharing.html %}
-{% endraw %}
-</code></pre>
-
-and get a nice responsive sharing ribbon.
-
-{% include sharing.html %}
-
-Add this at the bottom, or the top, or between every other paragraph is you're desprate for social validation.
-
-Just remember to customize the buttons to fit your url in the <code>_includes/sharing.html</code> file. These buttons are made available and customizable by the good folks at kni-labs. See the documentation at [https://github.com/kni-labs/rrssb](https://github.com/kni-labs/rrssb) for more information.
-
-### Add images to make your point
-
-Images play nicely with this as well. Add diagrams or charts to make your point, and the template will fit them in appropriately.
-
-<img src="/images/hello.svg" alt="hello">
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Thanks to [Shu Uesengi](https://github.com/chibicode) for inspiring and providing the base for this template with his excellent work, [solo](https://github.com/chibicode).
-
-<hr>
-
-##### Footnotes:
-
-[^1]: This is a footnote. Click to return.
-
-[^2]: Here is another.
