@@ -24,6 +24,7 @@ layout: default
 #<h1> Findings
 
 
+
 #<h1> Comics
 * [Methods comic](https://drive.google.com/file/d/0B7i8vRYAH8JvMTNpdTE5UzRSUW8/view?usp=sharing)
 * [Theory comic](https://drive.google.com/open?id=0B7i8vRYAH8JvV09QQ1pJMXcwSzA)
