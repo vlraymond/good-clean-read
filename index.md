@@ -10,7 +10,7 @@ layout: default
 * [Overview](https://blog.overviewdocs.com/about/) - a tool for analyzing large sets of documents using a sophisticated search engine, entity detection, and topic-based document clustering 
 * [VOSViewer](http://www.vosviewer.com/) - a tool for constructing and visualizing co-occurrence networks of important terms extracted from a body of text
 
-#<h1> Content: What was mentioned?
+#<h1> Analyzing Content
 * [Map of locations mentioned: Location Entities in US Arctic Policy Documents 2009 - 2015](https://shuggielee.cartodb.com/viz/c66b600a-eb91-11e4-afd8-0e8dde98a187/embed_map)
 * [Map of locations mentioned: Location Entities in US Arctic Intelligence 2007 - 2011](https://shuggielee.cartodb.com/viz/8b64bf38-df1b-11e4-895a-0e8dde98a187/public_map)
 * [Document similarity: US Arctic Policy](https://www.overviewdocs.com/documentsets/6608/job-10482)
@@ -21,6 +21,9 @@ layout: default
 * [Word networks: Us Arctic policy documents] (http://textexture.com/index.php?text_id=57497&embed=1&fullscreen=1) 
 * [Word networks: US Arctic intelligence] (http://textexture.com/index.php?text_id=54247)
 
+#<h1> Findings
+
+
 #<h1> Comics
 * [Methods comic](https://drive.google.com/file/d/0B7i8vRYAH8JvMTNpdTE5UzRSUW8/view?usp=sharing)
 * [Theory comic](https://drive.google.com/open?id=0B7i8vRYAH8JvV09QQ1pJMXcwSzA)
@@ -30,7 +33,4 @@ layout: default
 
 #<h1> Getting Meta
 * [thesis as word network](http://textexture.com/index.php?text_id=67439&embed=1&fullscreen=1)
-thesis word co-occurances
-thesis sentiment
-mapping thesis geographic entities
 
